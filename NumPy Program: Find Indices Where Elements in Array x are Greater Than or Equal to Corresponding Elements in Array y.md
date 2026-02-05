@@ -29,7 +29,8 @@ print(np.where(x==y,True,False))
 
 ## Output
 
-<img width="427" height="305" alt="image" src="https://github.com/user-attachments/assets/83554740-8ecc-4855-a6e9-d631724fb083" />
+<img width="427" height="305" alt="image" src="https://github.com/user-attachments/assets/13a7e4a6-e79d-4a3a-ad8d-fd483cb15a2d" />
+
 
 
 ## Result
